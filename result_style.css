@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1.58824;
+    text-align: center;
+    font-family: 'yg-jalnan';
+}
+
+ul {
+    list-style: none;
+    }
+
+/*02_01_GNB    */
+.logo img {
+/*    float: left;*/
+    height: 55px;
+}
+
+.share_link img {
+/*    float: left;*/
+    height: 55px;
+    margin-right: 50px;
+}
+
+.globalnav {
+/*    top: 0;*/
+    position: fixed;
+/*    z-index: 9998;*/
+    width: 100%;
+    margin: 0 auto;
+    background: #fff;
+    height: 55px;
+}
+.list {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    font-weight: 200;
+    color: #fff;
+}
+.main {
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    padding-top: 86px;
+    font-size: 44px;
+    color: #0d57ff;
+}
+@font-face{
+    src: url("ttf/yg-jalnan.ttf");
+    font-family: 'yg-jalnan';
+}
+
+h2{
+    font-size: 22px;
+    color: #0d57ff;
+}
+
+.image_1{
+    height: 400px;
+}
+
+.start_box{
+  width: 180px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: #F42C71;
+  text-align: center;
+  line-height: 45px;
+  font-size: 30px;
+  color: white;
+  margin-top: 28px;
+}

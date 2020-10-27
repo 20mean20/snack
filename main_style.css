@@ -1,0 +1,37 @@
+
+body{
+  margin: 70px;
+}
+
+.main1{
+  font-size: 40px;
+  color: #0064FF;
+  text-align: left;
+  line-height: 45px;
+  margin-bottom: 28px
+
+}
+
+.main2{
+  font-size: 19px;
+  color: #0064FF;
+  text-align: left;
+  line-height: 22px;
+}
+img.absolute{
+  position: absolute;
+  left: 700px;
+  top: 200px;
+}
+
+.star_box{
+  width: 180px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: #F42C71;
+  text-align: center;
+  line-height: 45px;
+  font-size: 30px;
+  color: white;
+  margin-top: 28px
+}
