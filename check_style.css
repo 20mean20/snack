@@ -132,3 +132,24 @@ h2{
 .left_bar1 h4{
     float: left;
 }
+* {box-sizing: border-box}
+
+.container {
+  width: 50%;
+  height: 10px;
+  background-color: #ddd;
+  float: right;
+    border-radius: 15px;
+
+}
+
+.skills {
+  text-align: right;
+  color: white;
+  float: left;
+  height: 10px;
+  border-radius: 15px;
+
+}
+
+.html {background-color: #0d57ff;}
