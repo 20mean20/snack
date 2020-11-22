@@ -87,6 +87,11 @@ h4{
   padding-left: 20px;
 }
 
+.check_box a{
+display: block;
+}
+
+
 .check_box:hover{
   background-color: #A9D0F5;
 }
