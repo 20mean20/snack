@@ -132,9 +132,11 @@ h2{
 .left_bar1 h4{
     float: left;
 }
+
 * {box-sizing: border-box}
 
 .container {
+    margin-top: 6px;
   width: 50%;
   height: 10px;
   background-color: #ddd;
@@ -153,3 +155,9 @@ h2{
 }
 
 .html {background-color: #0d57ff;}
+
+button.share_link {
+  border: 0px;
+  outline: 0px;
+  background-color: #0d57ff;
+}

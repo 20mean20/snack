@@ -80,3 +80,9 @@ h2{
   margin-top: 28px;
 }
 .start_box a { text-decoration:none ; color:#ffffff;}
+
+button.share_link {
+  border: 0px;
+  outline: 0px;
+  background-color: #ffffffff;
+}

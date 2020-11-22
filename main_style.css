@@ -49,7 +49,7 @@ ul {
   text-align: left;
   line-height: 60px;
   margin-bottom: 35px;
-    
+
 }
 
 .main2{
@@ -93,5 +93,11 @@ a { text-decoration:none ; color:#fff;}
 }
 
 .main_right img{
-    height: 350px;    
+    height: 350px;
+}
+
+button.share_link {
+  border: 0px;
+  outline: 0px;
+  background-color: #0d57ff;
 }
